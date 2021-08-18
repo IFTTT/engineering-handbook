@@ -6,9 +6,18 @@ description: Meetings that apply to all members of the engineering team
 
 ## Sprint Planning
 
-When: First working day of each sprint
+When: First working day of each sprint \(1hr\)
 
-Agenda: ...
+Agenda
+
+* Ensure all required milestones and iterations are setup in ClubHouse
+* Ensure all required epics are in place and mapped to appropriate milestones
+* Discuss, document, breakdown, estimate and assign all user stories
+* Discuss risks
+  * Which stories have the most unknowns?
+  * How much emergent work do we expect this sprint?
+* Discuss process
+  * How can we improve sprint planning and standups?
 
 ## Sprint Retro
 
