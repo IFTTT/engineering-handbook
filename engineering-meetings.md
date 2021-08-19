@@ -6,9 +6,11 @@ description: Meetings that apply to all members of the engineering team
 
 ## Sprint Planning
 
-When: First working day of each sprint \(1hr\)
+#### When
 
-Agenda
+First working day of each sprint \(1hr\)
+
+#### Agenda
 
 * Ensure all required milestones and iterations are setup in ClubHouse
 * Ensure all required epics are in place and mapped to appropriate milestones
@@ -21,21 +23,44 @@ Agenda
 
 ## Sprint Retro
 
-When: Last working day of each sprint
+#### When
 
-Agenda: ...
+Last working day of each sprint \(1hr\)
+
+#### Agenda
+
+* Review final status of all stories in the sprint
+* Move incomplete stories forward to next iteration
+* Close out any completed epics
+* Close milestone if end of IC
+* Cleanup the ClubHouse!
+* Discuss sprint ups and downs
+* Discuss process improvements
+* Discuss improvements suggested in previous retros
 
 ## Sprint Standup
 
-When: Everyday except first/last day of sprint orThursday
+#### When
 
-Agenda: ...
+Everyday except first/last day of sprint or Thursday \(30 min\)
 
-## Operations Review
+#### Agenda
 
-When: Every two weeks on Monday
+* Quick around-the-horn for awareness
+  * What are you working on?
+  * Any issues or blockers?
+* Call out need for follow-up meetings for deeper discussions
+  * Should block 30-minutes after the standup for ad-hoc discussions
 
-Agenda: Biweekly meeting for oncall handoff, review of open issues, operational backlogs. Current oncall, next oncall, and discipline leads are mandatory. Everyone else is optional.
+## Operational Review
+
+#### When
+
+Every two weeks on Monday
+
+#### Agenda
+
+Biweekly meeting for oncall handoff, review of open issues, operational backlogs. Current oncall, next oncall, and discipline leads are mandatory. Everyone else is optional.
 
 Meeting Notes
 
