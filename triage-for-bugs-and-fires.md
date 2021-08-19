@@ -87,3 +87,28 @@ The priority of a bug or fire is determined on a 4-point scale, with P0 being hi
 * P2 and P3 are fix them later events, with P2 stories being fixed before P3 stories
 * All 'Bug' stories _must_ have a priority label: P0, P1, P2 or P3
 
+## FAQ
+
+### If a bug is filed during an Impact Cycle, in which bucket does it belong?
+
+Per the above discussion, the process would look like...
+
+1. Engineering becomes aware of the bug and discusses possible quick fixes \(Discuss\)
+2. If it's not a quick fix, a bug story should be created \(Document\)
+3. This is where prioritization happens...
+   1. The story should be tagged with a priority tag: P0, P1, P2, P3
+   2. The epic for the story will be...
+      * P0 or P1
+        * &lt;Squad&gt; &lt;IC&gt; Bugs and Fires
+      * P2
+        * &lt;Squad&gt; &lt;IC&gt; Bugs and Fixes if the story needs to be fixed soon, otherwise &lt;Squad&gt; Bugs and Fixes
+      * P3
+        * &lt;Squad&gt; Bugs and Fixes
+   3. The iteration for the story will be...
+      * P0
+        * The current iteration
+      * P1
+        * The current or next iteration
+      * P2 or P3
+        * The next iteration or none
+
