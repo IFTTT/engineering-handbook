@@ -28,7 +28,7 @@ If a quick and immediate resolution cannot be found, the issue needs to be docum
 
 ## Document
 
-If you're discussing an issue and you find yourself saying "I'll have to look at this later" or "I'm not sure when I'll be able to fix this", it's likely time to document the issue as a Story in Clubhouse.
+If you're discussing an issue and you find yourself saying "I'll have to look at this later" or "I'm not sure when I'll be able to fix this", it's likely time to document the issue as a Story in Shortcut.
 
 Create a story as follows:
 
@@ -51,7 +51,7 @@ This prioritization step is crucial as a decision is made at this point whether 
 
 ### Priorities
 
-The priority of a bug or fire is determined on a 4-point scale, with P0 being highest priority and P3 being the lowest. The priority is captured by tagging the story using a Label in ClubHouse.
+The priority of a bug or fire is determined on a 4-point scale, with P0 being highest priority and P3 being the lowest. The priority is captured by tagging the story using a Label in Shortcut.
 
 * P0
   * Highest priority, fix immediately
