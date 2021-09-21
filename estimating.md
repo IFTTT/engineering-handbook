@@ -22,9 +22,9 @@ That software is almost infinitely malleable is both a blessing and a curse. Eve
 
 Given that software solutions are the result of many small iterations, precise estimations are impossible. Therefor, estimations should be made with wide margins. Hours are typically too precise to be accurate and weeks are typically too imprecise to be useful. Estimating using number of days is a good compromise.
 
-## How do I estimate a story in ClubHouse?
+## How do I estimate a story in Shortcut?
 
-The estimating scale in ClubHouse is in days \(where 1 point = 1 day\) and the range is:
+The estimating scale in Shortcut is in days \(where 1 point = 1 day\) and the range is:
 
 1 - This is a small task and can be done quickly \(Should have a relatively small number of these\)
 
